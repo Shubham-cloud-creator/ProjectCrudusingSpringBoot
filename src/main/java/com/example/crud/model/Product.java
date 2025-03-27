@@ -13,5 +13,5 @@ public class Product {
 	private String name;
 	private  Double price;
 	private  Integer quantity;
-
+	private String vidhi;
 }
